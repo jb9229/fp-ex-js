@@ -1,0 +1,28 @@
+{
+  "name": "fp-ex",
+  "version": "1.0.0",
+  "description": "Functional Programming Exercise",
+  "main": "index.js",
+  "type": "module",
+  "module": "es2018",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb9229/fp-ex-js.git"
+  },
+  "keywords": [
+    "funtional",
+    "programming"
+  ],
+  "author": "jbjeong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jb9229/fp-ex-js/issues"
+  },
+  "homepage": "https://github.com/jb9229/fp-ex-js#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
