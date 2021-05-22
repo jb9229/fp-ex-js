@@ -1,5 +1,4 @@
-// import * as R from "ramda";
-const R = require("ramda");
+import * as R from "ramda";
 
 // states
 const useDb = true;
